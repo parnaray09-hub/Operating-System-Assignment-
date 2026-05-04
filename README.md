@@ -139,7 +139,7 @@ Average WT : FCFS = 3.33, SJF = 3.33
 
 ## 👨‍💻 Submitted By
 
-Aalok Kumar Singh  
+Parna Ray
 BCA (AI & Data Science)  
 K.R. Mangalam University  
 
